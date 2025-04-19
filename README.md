@@ -1,16 +1,6 @@
-# to_do_app
+To-Do List App (Flutter MVVM)
 
-A new Flutter project.
+A simple and efficient To-Do List app built using Flutter with MVVM architecture for structured code, state management, and local storage using SharedPreferences.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Features
+✔ Add Tasks - Users can add new tasks ✔ Mark as Completed - Toggle task completion ✔ Remove Tasks - Delete tasks easily ✔ Persistent Storage - Tasks are saved locally using SharedPreferences ✔ MVVM Architecture - Clean and scalable code structure ✔ Simple UI - Minimal and user-friendly interface
